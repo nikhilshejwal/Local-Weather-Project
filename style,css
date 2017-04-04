@@ -1,0 +1,5 @@
+body{
+  background-size:cover;
+    background-image: url("http://res.cloudinary.com/lcg8knula/CoolDay_g8gt7l");
+
+}
